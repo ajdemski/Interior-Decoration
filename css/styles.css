@@ -1,0 +1,20 @@
+.column {
+    width: 300px;
+    text-align: center;
+    font-size: larger;
+  }
+
+  .sidebar {
+    width: 30%;
+    float: right;
+    background-color: rgb(182, 180, 180);
+    font-size: large;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  img {
+    width: 500px;
+  }
